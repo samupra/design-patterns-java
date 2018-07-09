@@ -1,5 +1,7 @@
 # Compiled class file
 *.class
+*.idea
+DesignPatterns.iml
 
 # Log file
 *.log
