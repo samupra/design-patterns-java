@@ -1,7 +1,5 @@
 package com.samupra.designpatterns.creation.singleton;
 
-import com.samupra.designpatterns.creation.prototype.Maze;
-
 public class MazeFactory {
 
     private static MazeFactory _instance = null;
@@ -17,4 +15,5 @@ public class MazeFactory {
 
         return _instance;
     }
+
 }
